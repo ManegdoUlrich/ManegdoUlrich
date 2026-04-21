@@ -54,7 +54,7 @@ Beyond academic research, I am interested in **nowcasting and short-term economi
 
 ## Featured projects
 
-The following projects are being developed under the **Quanti** portfolio — repositories and dashboards will be added here progressively.
+The following projects are being developed by me — repositories and dashboards will be added here progressively.
 
 | Project | Status | Description |
 |---|---|---|
